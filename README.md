@@ -1,1 +1,2 @@
-https://mustykhot.github.io/30days/signup.html
+https://mustykhot.github.io/30days/index.html
+
